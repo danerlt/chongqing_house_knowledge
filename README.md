@@ -1,5 +1,7 @@
 
-	   杭州房产知识扫盲
+> 感谢:@houshanren [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge),将杭州的一些信息改为重庆的.
+
+	   重庆房产知识扫盲
 	   -- 图片来自网络，侵权删
 	   -- 数据不保证完全准确，错误之处还望海涵，如需深入使用还望自己求证。
 	   -- 买房有风险，投资需谨慎 ，资料内容不保证完全正确，使用需谨慎。
